@@ -27,7 +27,7 @@ A man in his early 30s. A skilled airshipman and a competent technologist. In lo
  - Sort of a horndog, compensating for the Captain's lack of reciprocal affection.
 
 #### The Second Mate
-A woman in her mid 20s. Bisexual. Effective combat marksman.
+A woman in her mid 20s. Bisexual. Effective combat marksman. Has potential to become a truly gifted navigator. Has inate ability to visualize in three dimensions, which explains her excellent marksmanship and navigator potential.
 
 #### Chief Engineers: Emly and Anta
 Young girls, twins, prodigies with all things engineering. One is more of a magic-user, the other more of a structics technician.
