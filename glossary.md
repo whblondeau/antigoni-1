@@ -1,6 +1,4 @@
-==Glossary
-
-
+##Glossary
 
  - **Hexiaz:** Planet 
 
