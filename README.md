@@ -23,7 +23,7 @@ This solar system, therefore, was promptly and gleefully explored after the engi
 
 In order from the sun outwards, these are the planetary bodies reached by the people who had magic to assist their explorations:
 
-* **Sargual,** a small airless tidelocked rock, very hot on the dayside, very cold on the darkside. Some mining domes â€” rare metals supported the effort of establishing twilight band settlements.
+* **Sargual,** a small airless tidelocked rock, very hot on the dayside, very cold on the darkside. Some mining domes — rare metals supported the effort of establishing twilight band settlements.
 
 * **Issfr,** another tidelocked world, but bigger and with a substantial (but not breathable) atmosphere. Civilization is still mostly limited to the twilight zone. Issfr's orbit is only slightly outside that of Sargual.
 
