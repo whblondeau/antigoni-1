@@ -35,7 +35,7 @@ In order from the sun outwards, these are the planetary bodies reached by the pe
 
 * **Hexiaz,** a world similar to Torestre in size, with an extremely deep atmosphere and a native ecology. Hexiaz is co-orbital with:
 
-  * **The Cold Belt,** an asteroid belt much larger and colder than the insystem Hot Belt. Includes a lot of ice-rich bodies, and is in fact the primary source of water and other light fluids for outer-system operations. Hexiaz is thought to have been heavily bombarded by elements of the Cold Belt. Some planetologists argue that Hexiaz is merely the largest remaining fragment of the initial planetary breakup that created the Cold Belt.
+* **The Cold Belt,** an asteroid belt much larger and colder than the insystem Hot Belt. Includes a lot of ice-rich bodies, and is in fact the primary source of water and other light fluids for outer-system operations. Hexiaz is thought to have been heavily bombarded by elements of the Cold Belt. Some planetologists argue that Hexiaz is merely the largest remaining fragment of the initial planetary breakup that created the Cold Belt.
 
   * **Yst,** a small airless world, with "Airspaces", magically constrained bubbles of air, clinging to its black surface. Some of them are hundreds of miles across. Ystian Airspaces are the largest persistent magical structures known.
 
