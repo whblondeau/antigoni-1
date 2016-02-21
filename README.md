@@ -23,7 +23,7 @@ This solar system, therefore, was promptly and gleefully explored after the engi
 
 In order from the sun outwards, these are the planetary bodies reached by the people who had magic to assist their explorations:
 
-* **Sargual,** a small airless tidelocked rock, very hot on the dayside, very cold on the darkside. Some mining domes â€” rare metals supported the effort of establishing twilight band settlements.
+* **Sargual,** a small airless tidelocked rock, very hot on the dayside, very cold on the darkside. Some mining domes — rare metals supported the effort of establishing twilight band settlements.
 
 * **Issfr,** another tidelocked world, but bigger and with a substantial (but not breathable) atmosphere. Civilization is still mostly limited to the twilight zone. Issfr's orbit is only slightly outside that of Sargual.
 
@@ -35,7 +35,7 @@ In order from the sun outwards, these are the planetary bodies reached by the pe
 
 * **Hexiaz,** a world similar to Torestre in size, with an extremely deep atmosphere and a native ecology. Hexiaz is co-orbital with:
 
-  * **The Cold Belt,** an asteroid belt much larger and colder than the insystem Hot Belt. Includes a lot of ice-rich bodies, and is in fact the primary source of water and other light fluids for outer-system operations. Hexiaz is thought to have been heavily bombarded by elements of the Cold Belt. Some planetologists argue that Hexiaz is merely the largest remaining fragment of the initial planetary breakup that created the Cold Belt.
+* **The Cold Belt,** an asteroid belt much larger and colder than the insystem Hot Belt. Includes a lot of ice-rich bodies, and is in fact the primary source of water and other light fluids for outer-system operations. Hexiaz is thought to have been heavily bombarded by elements of the Cold Belt. Some planetologists argue that Hexiaz is merely the largest remaining fragment of the initial planetary breakup that created the Cold Belt.
 
   * **Yst,** a small airless world, with "Airspaces", magically constrained bubbles of air, clinging to its black surface. Some of them are hundreds of miles across. Ystian Airspaces are the largest persistent magical structures known.
 
