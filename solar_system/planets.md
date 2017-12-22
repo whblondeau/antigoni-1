@@ -1,4 +1,4 @@
-##The planets, from the Sun outward:
+## The planets, from the Sun outward:
 
  - Sargual, a small airless tidelocked rock, very hot on the dayside, very cold on the darkside. Some mining domes <97> rare metals supported the effort of establishing twilight band settlements.
 
